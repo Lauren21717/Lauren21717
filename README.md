@@ -20,7 +20,7 @@ Interactive Reddit-style news platform with voting, sorting, and commenting.
 - Designed RESTful API using Node.js, Express & PostgreSQL
 - Implemented optimistic UI updates for seamless voting experience
 - **Tech**: React, Tailwind CSS, Node.js, Express, PostgreSQL
-🔗 [Frontend GitHub](https://github.com/Lauren21717/nc-news) | [Backend GitHub](https://github.com/Lauren21717/news-BE)
+- 🔗 [Frontend GitHub](https://github.com/Lauren21717/nc-news) | [Backend GitHub](https://github.com/Lauren21717/news-BE)
 
 ### 🛒[Japan Market](https://github.com/Lauren21717/japan-market)  
 Full-stack e-commerce application inspired by Japanese supermarkets.
